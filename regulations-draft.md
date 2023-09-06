@@ -36,7 +36,7 @@ Abbreviations:
 
 **2. Participants**
 
-2.1. European countries, which are eligible to participate in EJOI, are: Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, the Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom.
+2.1. For the EJOI, participants can be all the Council of Europe countries, all the countries that officially participated before and all countries approved by GA. In all cases, the country has to either be Council of Europe country or to have territory in Europe.
 
 2.2. Each participating Country is represented by a National Delegation; all members of a National Delegation represent no more than one Country. A National Delegation is headed by a Delegation Leader, includes a team of one to four Contestants and, if there is more than one Contestant, may include a Deputy Leader.
 
