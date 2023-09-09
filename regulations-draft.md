@@ -121,6 +121,7 @@ Abbreviations:
 * One Past Host representative of EJOI, held in the year before past;
 * One Present Host representative of EJOI, held in the current year;
 * One Future or Candidate Host representative of EJOI, held in the next year;
+* One Future or Candidate Host representative of EJOI, held in the year after next (non-voting);
 * 3 other elected representatives;
 * Representative of the founders;
 * Secretary (non-voting, assigned by IC);
