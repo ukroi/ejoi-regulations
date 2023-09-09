@@ -376,7 +376,10 @@ Abbreviations:
 6.12. The GA must confirm the scores and the Awards of the Contestants. Award boundaries are allocated by the following rules:
 * The score necessary to achieve a gold medal is the largest score such that at least one twelfth of all contestants receive a gold medal;
 * The score necessary to achieve a silver medal is the largest score such that at least one quarter of all contestants receive a gold or silver medal;
-* The score necessary to achieve a bronze medal is the largest score such that at least one half of all contestants receive a medal;
+* The score necessary to achieve a bronze medal is selected according to the following rules:
+1. The number of medals (including gold and silver) should be at least 50% and at most 60% of all official participants.
+2. The minimum difference in points between all the people who received a medal and all the people who received no medal should be the maximum.
+3. If there are more than one equal gaps, the lowest score should be chosen and the number of medals maximised.
 * A contestant who does not receive a medal will be awarded an Honourable Mention if, in at least one of the two Competition Days, fewer than half of the contestants have a higher score.
 
 **7. Revision of the Regulations**
