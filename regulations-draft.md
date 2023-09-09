@@ -101,7 +101,7 @@ Abbreviations:
 3.1.7. GA procedure:
 
 * GA meetings are chaired by the Chair of GA;
-* All meetings must be announced by the Chair or Host Country. There may be no ad-hoc meetings;
+* All meetings must be announced by the Chair or Host Country;
 * Members of the GA must be given at least 24 hours notice of meetings, and of any proposals that require voting;
 * Agendas and meetings are not limited to those discussed in 3.1.3.;
 * At meetings of the GA, the voting procedure is on the basis of one vote for each country that participates through a National Delegation and is present at the meeting;
