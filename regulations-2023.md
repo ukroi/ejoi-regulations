@@ -10,7 +10,7 @@
 6. Competition, Judging and Awards
 7. Revision of the Regulations
 
-Draft
+Approved by GA, EJOI 2023
 
 Abbreviations:
 * General Assembly – GA
