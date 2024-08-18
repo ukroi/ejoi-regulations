@@ -111,10 +111,8 @@ Abbreviations:
 * In voting procedures the Chair does not vote, but the Chair may cast a deciding vote;
 * Members of the GA, IC, ISC, ITC and Organizing Committee have the right to address the GA with the permission of the Chair;
 * After being ratified by IC, at the first practical opportunity the decisions must be made available on the EJOI web site.
-* For a simple majority vote to be accepted, the majority of countries present at EJOI
-should vote and there should be more votes in favour than against.
-* For a 2/3 vote to be accepted, the majority of countries present at EJOI should vote
-and there should be at least twice as many votes in favour than against.
+* For a simple majority vote to be accepted, the majority of countries present at EJOI should vote and there should be more votes in favour than against.
+* For a 2/3 vote to be accepted, the majority of countries present at EJOI should vote and there should be at least twice as many votes in favour than against.
 
 3.2. International Committee (IC)
 
