@@ -102,7 +102,7 @@ Abbreviations:
 
 * GA meetings are chaired by the Chair of GA;
 * All meetings must be announced by the Chair or Host Country;
-* Members of the GA must be given at least 24 hours notice of meetings, and of any proposals that require voting;
+* Members of the GA must be given at least 24 hours notice of meetings, and of any proposals that require voting; GA might consider any proposal without the 24 hours notice if 2/3 countries present at EJOI agree with that.
 * Agendas and meetings are not limited to those discussed in 3.1.3.;
 * At meetings of the GA, the voting procedure is on the basis of one vote for each country that participates through a National Delegation and is present at the meeting;
 * Except where explicitly stated, votes require a simple majority;
