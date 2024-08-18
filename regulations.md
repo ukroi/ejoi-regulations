@@ -317,37 +317,39 @@ Abbreviations:
 
 5.6. The Current Host is obliged to organise meetings of the ISC and the ITC in the Current Host’s Country, between 2 and 6 months before EJOI, which will be hosted by the current host or online.
 
-5.7. The Present Host is obliged to empower the IC to invite to EJOI:
+5.7. The HSC is obliged to consult the ISC for the decision on which problems form the problem set and also share the final versions of the problems with the ISC.
+
+5.8. The Present Host is obliged to empower the IC to invite to EJOI:
 * National Delegations according to 2.1;
 * Members of the IC, ISC and ITC;
 * Invited Guests;
 * Invited Observers from the Future Hosts of next EJOI;
 * Additional Participants at the discretion of the Current Host.
 
-5.8. The Present Host is obliged to send information to all invitees, at least four months before EJOI, about
+5.9. The Present Host is obliged to send information to all invitees, at least four months before EJOI, about
 * Schedule and Programme;
 * Contest Rules;
 * Location;
 * Registration.
 
-5.9. The Present Host may have a second team at EJOI.
+5.10. The Present Host may have a second team at EJOI.
 
-5.10. The travel costs to and from the location where the IC has its meeting, the ISC meets, the ITC meets, or where EJOI is located, are at the expense of all Participants. Costs for board and lodging during the IC meeting, ISC meeting, ITC meeting, or during EJOI are at the expense of the Current Host for:
+5.11. The travel costs to and from the location where the IC has its meeting, the ISC meets, the ITC meets, or where EJOI is located, are at the expense of all Participants. Costs for board and lodging during the IC meeting, ISC meeting, ITC meeting, or during EJOI are at the expense of the Current Host for:
 * Delegation Leaders, Deputy Leaders and Contestants;
 * Invited Observers;
 * Invited Participants;
 
-5.11. All other Participants have to pay a reasonable fee which is determinant by the Current Host.
+5.12. All other Participants have to pay a reasonable fee which is determinant by the Current Host.
 
-5.12. The Current Host is obliged, by the end of EJOI, to:
+5.13. The Current Host is obliged, by the end of EJOI, to:
 * Issue attendance certificates for all Participants;
 * Issue awarding certificates for contestants who win medals or Honourable Mentions;
 * Produce a full result list containing the final scores of all contestants, as well as a list of all Participants, which are made available to the ISC, along with the data required to generate those scores;
 * Hold an Awards Ceremony for the presentation of medals.
 
-5.13. The Current Host is obliged to hold a Closing Ceremony at the end of EJOI. It is expected that this will be combined with the Awards Ceremony.
+5.14. The Current Host is obliged to hold a Closing Ceremony at the end of EJOI. It is expected that this will be combined with the Awards Ceremony.
 
-5.14. The Current Host becomes a Past Host at the end of EJOI.
+5.15. The Current Host becomes a Past Host at the end of EJOI.
 
 **6. Competition, Judging and Awards**
 
