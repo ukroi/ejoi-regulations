@@ -112,6 +112,8 @@ Abbreviations:
 * Members of the GA, IC, ISC, ITC and Organizing Committee have the right to address the GA with the permission of the Chair;
 * After being ratified by IC, at the first practical opportunity the decisions must be made available on the EJOI web site.
 
+3.1.8. Contestants from member countries that do not organize a national selection process shall be admitted to EJOI as official contestants. However, delegations from such countries shall not be entitled to vote in the General Assembly meetings.
+
 3.2. International Committee (IC)
 
 3.2.1. The International Committee is a long-term standing committee. It consists of 9 voting members, all from different Participating Countries, plus a non-voting Secretary and Treasurer:
