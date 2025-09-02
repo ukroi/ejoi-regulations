@@ -114,18 +114,16 @@ Abbreviations:
 
 3.2. International Committee (IC)
 
-3.2.1. The International Committee is a long-term standing committee. It consists of 9 voting members, all from different Participating Countries, plus a non-voting Secretary and Treasurer:
+3.2.1. The International Committee is a long-term standing committee. It consists of up to 10 voting members:
 
 * The President of EJOI (elected);
 * One Past Host representative of EJOI, held in the past year;
 * One Past Host representative of EJOI, held in the year before past;
-* One Present Host representative of EJOI, held in the current year;
-* One Future or Candidate Host representative of EJOI, held in the next year;
-* One Future or Candidate Host representative of EJOI, held in the year after next (non-voting);
+* One Present Host representative of EJOI, held in the current year (if they are confirmed);
+* One Future Host representative of EJOI, held in the next year (if they are confirmed);
+* One Future Host representative of EJOI, held in the year after next (if they are confirmed);
 * 3 other elected representatives;
-* Representative of the founders;
-* Secretary (non-voting, assigned by IC);
-* Treasurer (non-voting, assigned by IC).
+* 1 Representative of the founders
 
 3.2.2. The IC acts in the general spirit of the Regulations. The IC shall have overall responsibility for the management and administration of the affairs of the EJOI, subject to such direction as given in these Regulations and, without limiting the generality of this responsibility, shall have the following powers and duties:
 
