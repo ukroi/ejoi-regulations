@@ -72,14 +72,14 @@ Abbreviations:
 
 3.1.1. The General Assembly is a temporary, short-term committee during EJOI, which is composed of the Delegation Leaders and the Deputy Leaders of all Participating Countries.
 
-3.1.2. The GA must hold at least six meetings at EJOI, including:
+3.1.2. The GA must hold meetings during EJOI, including at least the following:
 
-* Before the first Competition period and before Delegation Leaders are segregated from their Contestants, to include the discussion of the Contest Rules, report of the president, nominations of the different bodies;
-* Before the first Competition period and after Delegation Leaders are segregated from their Contestants, to include the presentation and translation of the first Competition Tasks;
-* After the first Competition period and after Delegation Leaders have had the opportunity for communication with contestants, for matters arising from the first Competition period and evaluation;
-* Before the second Competition period and after Delegation Leaders are segregated from their Contestants, to include the presentation and translation of the second Competition Tasks;
-* After the second Competition period and after Delegation Leaders have had the opportunity for communication with contestants, to include matters arising from the second Competition period and evaluation, including appeals;
-* Before the Awards Ceremony and after all evaluation is complete, to include the confirming of awards.
+* Before the first Competition period and before Delegation Leaders are segregated from their Contestants, to include the discussion of the Contest Rules.
+* Before the first Competition period and after Delegation Leaders are segregated from their Contestants, to include the presentation and translation of the first Competition Tasks.
+* After the first Competition period and after Delegation Leaders have had the opportunity to communicate with their Contestants, to include matters arising from the first Competition period, evaluation, and appeals.
+* Before the second Competition period and after Delegation Leaders are segregated from their Contestants, to include the presentation and translation of the second Competition Tasks.
+* After the second Competition period and after Delegation Leaders have had the opportunity to communicate with their Contestants, to include matters arising from the second Competition period, evaluation, and appeals.
+* Before the Awards Ceremony and after all evaluation is complete, to confirm the awards. This meeting may be combined with the one addressing appeals and evaluation. In addition, GA meetings should include other matters relevant to the functioning and development of EJOI, such as the report of the President, reports of the ISC, the ITC, and the Organizing Committee, budget approval, future host updates, revisions of the Regulations, and the elections of the EJOI bodies.
 
 3.1.3. The GA acts in the general spirit of the Regulations. The GA has the following tasks:
 
