@@ -275,6 +275,17 @@ Abbreviations:
 
 3.7.3. Decisions are made according to case-by-case voting rules, with all votes having equal value, whether online or on-site.
 
+3.8. Secretary
+
+3.8.1. The secretary is appointed by the IC, among its members.
+
+3.8.2. The secretary is responsible for:
+* For GA and IC – send calendar invites and keep meeting minutes.
+* Collect nominations for elected positions and participate in preparing the ballots together with the GA-appointed election committee members (scrutineers).
+* Prepare detailed GA agendas in accordance with IC instructions.
+* Maintain the list of EJOI countries and their contact organizations.
+* Maintain the EJOI regulations.
+
 **4. Host Nomination and Selection**
 
 4.1. An official representative of a Country that is capable and willing to organise an EJOI in a particular year, must submit a Letter of Intent to IC. IC will acknowledge the Letter of Intent and supply rules applicable to the situation. The Country becomes a Potential Host.
