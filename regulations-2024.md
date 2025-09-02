@@ -56,6 +56,16 @@ Abbreviations:
 
 2.9. The participants of an EJOI are the members of the International Committee (IC), International Scientific Committee (ISC), International Technical Committee (ITC), and the members of the Host Country, and the members of the National Delegations.
 
+2.10 Observers and guests
+
+2.10.1. Observers from all countries, beyond the eligible countries for EJOI so far, will be allowed to participate in EJOI but will not have the right to vote. All observers should be invited by the IC or Host, subject to approval by the host country.
+
+2.10.2. Competitors from all countries, beyond the eligible countries for EJOI so far, will be allowed to participate in EJOI, subject to approval by the host country, but will not be part of the official ranking. There could be a maximum of four competitors per country.
+
+2.10.3. For both guest country observers and guest country competitors, the host country shall apply a participation fee, the amount of which is determined at its sole discretion.
+
+2.10.4. Guest country competitors will receive medals and certificates. The certificates will clearly state that their achievement is equivalent to the respective medal level. However, they will not be included in the distribution of medals to eligible countries, thus it remains unchanged.
+
 **3. Committees, Office Bearers and Duties**
 
 3.1. General Assembly (GA)
