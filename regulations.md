@@ -98,7 +98,6 @@ Abbreviations:
 
 * The President of EJOI;
 * The Chairs of GA, EJOI (held in the current year), HSC, ISC and ITC;
-* Founders
 * Members of the HSC and the Organising Committee;
 * Members of the IC, ISC and ITC;
 * Invited Observers and Adjuncts to Teams;
@@ -133,7 +132,6 @@ Abbreviations:
 * One Future or Candidate Host representative of EJOI, held in the next year;
 * One Future or Candidate Host representative of EJOI, held in the year after next (non-voting);
 * 3 other elected representatives;
-* Representative of the founders;
 * Secretary (non-voting, assigned by IC);
 * Treasurer (non-voting, assigned by IC).
 
